@@ -9,7 +9,7 @@
   }
   
   .default {
-    background-color: #51ddfc;
+    background-color: '$secondary';
   }
   
   .error {
@@ -17,7 +17,7 @@
   }
   
   .info {
-    background-color: #927bc1;
+    background-color: '$button-purp';
   }
   
   .success {
@@ -25,6 +25,6 @@
   }
   
   .warning {
-    background-color: #fd7856;
+    background-color: '$orange';
   }
   
