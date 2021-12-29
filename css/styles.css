@@ -374,7 +374,7 @@ template {
 /* line 1, ../Coding Projects/techdegree--project-4/scss/partials/base/_typography.scss */
 * {
   font-family: 'Lato', sans-serif;
-  color: '$headline';
+  color: #777;
   box-sizing: border-box;
 }
 
@@ -393,19 +393,19 @@ a {
 /* ============================================= */
 /* line 20, ../Coding Projects/techdegree--project-4/scss/partials/base/_typography.scss */
 .headline-primary {
-  color: '$primary';
+  color: #58e1c1;
   margin-left: 10px;
 }
 
 /* line 25, ../Coding Projects/techdegree--project-4/scss/partials/base/_typography.scss */
 .headline-secondary {
   font-weight: 300;
-  color: '$headline';
+  color: #777;
 }
 
 /* line 30, ../Coding Projects/techdegree--project-4/scss/partials/base/_typography.scss */
 .link {
-  color: '$secondary';
+  color: #51ddfc;
   font-weight: 700;
 }
 
@@ -416,7 +416,7 @@ a {
   font-style: italic;
   margin-left: 20px;
   padding-left: 20px;
-  border-left: 8px solid "$primary";
+  border-left: 8px solid #58e1c1;
   border-radius: 5px;
 }
 
@@ -433,7 +433,7 @@ a {
 
 /* line 11, ../Coding Projects/techdegree--project-4/scss/partials/component/_button.scss */
 .default {
-  background-color: '$secondary';
+  background-color: #51ddfc;
 }
 
 /* line 15, ../Coding Projects/techdegree--project-4/scss/partials/component/_button.scss */
@@ -443,7 +443,7 @@ a {
 
 /* line 19, ../Coding Projects/techdegree--project-4/scss/partials/component/_button.scss */
 .info {
-  background-color: '$button-purp';
+  background-color: #927bc1;
 }
 
 /* line 23, ../Coding Projects/techdegree--project-4/scss/partials/component/_button.scss */
@@ -453,7 +453,7 @@ a {
 
 /* line 27, ../Coding Projects/techdegree--project-4/scss/partials/component/_button.scss */
 .warning {
-  background-color: '$orange';
+  background-color: #fd7856;
 }
 
 /* line 1, ../Coding Projects/techdegree--project-4/scss/partials/component/_form.scss */
@@ -468,7 +468,7 @@ a {
   margin: 10px auto 0;
   border: none;
   padding: 10px;
-  border-bottom: 5px solid '$primary';
+  border-bottom: 5px solid #58e1c1;
 }
 
 /* line 14, ../Coding Projects/techdegree--project-4/scss/partials/component/_form.scss */
@@ -502,7 +502,7 @@ a {
 /* line 19, ../Coding Projects/techdegree--project-4/scss/partials/component/_navigation.scss */
 .nav-link:hover {
   color: #fff;
-  background-color: '$primary';
+  background-color: #58e1c1;
 }
 
 /* line 1, ../Coding Projects/techdegree--project-4/scss/partials/component/_images.scss */
@@ -556,12 +556,12 @@ a {
 
 /* line 20, ../Coding Projects/techdegree--project-4/scss/partials/component/_grid.scss */
 .theme.col-1 {
-  background-color: '$button-purp';
+  background-color: #927bc1;
 }
 
 /* line 24, ../Coding Projects/techdegree--project-4/scss/partials/component/_grid.scss */
 .theme.col-2 {
-  background-color: '$orange';
+  background-color: #fd7856;
 }
 
 /* line 28, ../Coding Projects/techdegree--project-4/scss/partials/component/_grid.scss */
@@ -606,7 +606,7 @@ a {
 
 /* line 60, ../Coding Projects/techdegree--project-4/scss/partials/component/_grid.scss */
 .theme.col-11 {
-  background-color: '$seondary';
+  background-color: #51ddfc;
 }
 
 /* line 64, ../Coding Projects/techdegree--project-4/scss/partials/component/_grid.scss */

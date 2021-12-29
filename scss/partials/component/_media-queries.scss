@@ -1,4 +1,4 @@
-@media (min-width: 768px) {
+@media #{$brk-min} {
 
     .container {
       max-width: 1400px;
